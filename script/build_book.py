@@ -65,7 +65,7 @@ def pandoc_base(chapters: list[Path]) -> list[str]:
     resource_path = f"{ROOT / 'markdown'}:{ROOT}"
     return [
         pandoc,
-        "--from=gfm+tex_math_dollars",
+        "--from=markdown+tex_math_dollars",
         "--standalone",
         "--quiet",
         "--toc",

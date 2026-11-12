@@ -30,7 +30,7 @@ def render_markdown(path: Path) -> str:
     result = subprocess.run(
         [
             pandoc,
-            "--from=gfm+tex_math_dollars",
+            "--from=markdown+tex_math_dollars",
             "--to=html5",
             "--mathml",
             "--quiet",
