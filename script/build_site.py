@@ -72,7 +72,7 @@ def page_shell(
     pager = ""
     if previous_link or next_link:
         pager = (
-            '<nav class="pager" aria-label="章节翻页">'
+            '<nav class="pager" aria-label="内容翻页">'
             f'<div class="pager-prev">{previous_link}</div>'
             f'<div class="pager-next">{next_link}</div>'
             "</nav>"
@@ -142,12 +142,28 @@ def build_index(chapters: list[tuple[Path, str]]) -> str:
 </header>
 <section class="home-section">
   <h2>全书目录</h2>
-  <ol class="chapter-grid">{chapter_cards}</ol>
+  <ul class="chapter-grid">{chapter_cards}</ul>
 </section>
 <section class="home-section note">
   <h2>阅读说明</h2>
   <p>本书用于知识学习和研究交流，不构成投资建议、交易建议或收益承诺。历史结果不代表未来表现。</p>
 </section>
+"""
+
+
+def redirect_page(target: str) -> str:
+    """Return a small compatibility redirect for a renamed book page."""
+    escaped_target = html.escape(target, quote=True)
+    return f"""<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="refresh" content="0; url={escaped_target}">
+  <link rel="canonical" href="{escaped_target}">
+  <title>页面已移动 · 量化投资精要</title>
+</head>
+<body><p>页面已移动至 <a href="{escaped_target}">{escaped_target}</a>。</p></body>
+</html>
 """
 
 
@@ -192,8 +208,17 @@ def main() -> None:
             page, encoding="utf-8"
         )
 
+    legacy_pages = {
+        "00-preface.html": "preface.html",
+        "33-references.html": "references.html",
+    }
+    for old_name, target in legacy_pages.items():
+        (SITE_DIR / "chapters" / old_name).write_text(
+            redirect_page(target), encoding="utf-8"
+        )
+
     print(f"Created GitHub Pages site at {SITE_DIR}")
-    print(f"Generated {len(chapters)} chapter pages and EPUB download")
+    print(f"Generated {len(chapters)} book pages and EPUB download")
 
 
 if __name__ == "__main__":

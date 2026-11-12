@@ -15,8 +15,8 @@ README = ROOT / "README.md"
 DEFAULT_OUTPUT = ROOT / "dist"
 BOOK_SLUG = "quantitative-investment-essentials"
 
-CHAPTER_LINK = re.compile(
-    r"^\s*-\s+\[第\d+章[^]]*\]\(<(markdown/[^>]+\.md)>\)\s*$"
+BOOK_ENTRY_LINK = re.compile(
+    r"^\s*-\s+\[[^]]+\]\(<(markdown/[^>]+\.md)>\)\s*$"
 )
 
 
@@ -41,19 +41,19 @@ def parse_args() -> argparse.Namespace:
 def chapter_paths() -> list[Path]:
     chapters: list[Path] = []
     for line in README.read_text(encoding="utf-8").splitlines():
-        match = CHAPTER_LINK.match(line)
+        match = BOOK_ENTRY_LINK.match(line)
         if match:
             chapters.append(ROOT / match.group(1))
 
     if not chapters:
-        raise RuntimeError("No chapter links were found in README.md")
+        raise RuntimeError("No book-entry links were found in README.md")
     if len(chapters) != len(set(chapters)):
-        raise RuntimeError("README.md contains duplicate chapter links")
+        raise RuntimeError("README.md contains duplicate book-entry links")
 
     missing = [path for path in chapters if not path.is_file()]
     if missing:
         missing_list = "\n".join(f"- {path.relative_to(ROOT)}" for path in missing)
-        raise FileNotFoundError(f"Missing chapter files:\n{missing_list}")
+        raise FileNotFoundError(f"Missing book files:\n{missing_list}")
     return chapters
 
 
@@ -102,7 +102,7 @@ def main() -> None:
     output_dir.mkdir(parents=True, exist_ok=True)
     chapters = chapter_paths()
 
-    print(f"Found {len(chapters)} chapters in README.md")
+    print(f"Found {len(chapters)} book entries in README.md")
     outputs = [build(fmt, output_dir, chapters) for fmt in formats]
     for output in outputs:
         size_mb = output.stat().st_size / (1024 * 1024)

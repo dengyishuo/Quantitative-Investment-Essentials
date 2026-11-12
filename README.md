@@ -48,7 +48,7 @@
 
 ## 全书目录
 
-- [第0章 前言](<markdown/00-preface.md>)
+- [前言](<markdown/preface.md>)
 
 ### 第一篇 基础理论与研究方法
 
@@ -99,7 +99,10 @@
 - [第30章 回测、评估与实验设计](<markdown/30-backtesting-evaluation-and-experimental-design.md>)
 - [第31章 R、Python与量化软件包](<markdown/31-r-python-and-quantitative-packages.md>)
 - [第32章 端到端模型、LLM、Agent与Vibe Coding](<markdown/32-end-to-end-models-llms-agents-and-vibe-coding.md>)
-- [第33章 参考书籍和文献](<markdown/33-references.md>)
+
+### 后置内容
+
+- [参考文献与延伸阅读](<markdown/references.md>)
 
 ## 项目结构
 
@@ -107,7 +110,7 @@
 .
 ├── README.md                  # 项目说明与全书目录
 ├── LICENSE                    # MIT许可证
-├── markdown/                  # 按章节组织的Markdown书稿
+├── markdown/                  # 前置内容、正文各章与后置内容
 ├── images/                    # 插图与图表资源
 ├── code/                      # 与章节对应的示例代码
 ├── data/                      # 示例数据与数据字典
@@ -116,7 +119,7 @@
 └── dist/                      # 本地构建产物，不纳入版本控制
 ```
 
-章节、代码、数据和图片建议使用相同的两位数字前缀。例如，第14章的配套材料分别放在 `markdown/14-...md`、`code/14-machine-learning/`、`data/14-machine-learning/` 和 `images/14-machine-learning/`。
+正文各章、代码、数据和图片建议使用相同的两位数字前缀。例如，第14章的配套材料分别放在 `markdown/14-...md`、`code/14-machine-learning/`、`data/14-machine-learning/` 和 `images/14-machine-learning/`。前言、参考文献等前后置内容不使用章节数字前缀。
 
 ## 构建电子书
 
@@ -133,11 +136,11 @@ python script/build_book.py --format html
 python script/build_book.py --format epub
 ```
 
-产物输出到 `dist/`。构建顺序直接读取本README中的全书目录，因此调整章节后无需再维护第二份章节清单。
+产物输出到 `dist/`。构建顺序直接读取本README中的全书目录，因此调整书稿结构后无需再维护第二份清单。
 
 ### 构建GitHub Pages电子书
 
-生成带章节侧栏、前后翻页、移动端布局和EPUB下载的多页网站：
+生成带目录侧栏、前后翻页、移动端布局和EPUB下载的多页网站：
 
 ```bash
 python script/build_site.py

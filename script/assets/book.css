@@ -75,7 +75,7 @@ math { max-width: 100%; overflow-x: auto; }
 .hero-actions a { padding: 0.65rem 1rem; border: 1px solid var(--accent); border-radius: 0.35rem; text-decoration: none; }
 .hero-actions a.primary { color: white; background: var(--accent); }
 .home-section { margin-top: 3rem; }
-.chapter-grid { padding-left: 1.4rem; columns: 2; column-gap: 3rem; }
+.chapter-grid { padding-left: 0; columns: 2; column-gap: 3rem; list-style: none; }
 .chapter-grid li { break-inside: avoid; padding: 0.25rem 0; }
 .note { padding: 1rem 1.4rem; border: 1px solid var(--line); border-radius: 0.45rem; background: #f7f4ee; }
 
