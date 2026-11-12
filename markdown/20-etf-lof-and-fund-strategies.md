@@ -181,3 +181,10 @@ $$
 ## 本章小结
 
 基金策略既可以是低频资产配置，也可以是高要求的申赎套利。越接近套利，越需要精确理解产品结构、时点和执行。ETF价格偏离净值不必然意味着错误定价，LOF折溢价也不必然能够即时兑现。稳定收益来自对规则、成本和风险的完整建模。
+
+## 参考文献
+
+1. U.S. Securities and Exchange Commission. “Exchange-Traded Funds.” [Official investor guidance](https://www.investor.gov/introduction-investing/investing-basics/investment-products/mutual-funds-and-exchange-traded-1)（访问日期：2026年11月12日）
+2. U.S. Securities and Exchange Commission. “Rule 6c-11 under the Investment Company Act of 1940.” [Official rule release](https://www.sec.gov/files/rules/final/2019/33-10695.pdf)
+3. 上海证券交易所. *上海证券交易所交易型开放式指数基金业务实施细则*. [Official English edition](https://english.sse.com.cn/start/sserules/funds/trading/c/10115072/files/3a364202fc6c462cafbafb049dbb7d66.pdf)
+4. Investment Company Institute. “Exchange-Traded Funds Resource Center.” [Official data and research](https://www.ici.org/etf)（访问日期：2026年11月12日）

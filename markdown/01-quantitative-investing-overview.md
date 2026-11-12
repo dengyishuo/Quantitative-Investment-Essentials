@@ -213,3 +213,10 @@ Barra模型和Fama-French模型都是基于CAPM模型的扩展，都通过引入
 量化策略更加容易复制和传播。这使得量化策略具有更强的**自限性和自我毁灭性。**一旦某策略被验证能够持续创造超额收益，便会吸引资金蜂拥而至，吸引大家争相模仿。这会逐渐侵蚀该策略的盈利空间，直至阿尔法消失。这种“收益衰减”现象在高度开放竞争的市场中尤为明显。因此，量化投资者不仅需持续迭代策略、寻找新的信号来源，还必须在策略容量与保密性之间做出权衡。
 
 量化投资的范畴定义了一种现代、严谨、可扩展的投资科学。其边界则清晰地指出了，它并非投资的“终极答案”。它有效性也受制于数据、模型和动态变化的市场本身，更无法完全取代人类的深层洞察与创造性思维，成功的现代投资实践，往往是系统性量化框架与深度主观判断的有机结合。理解其范畴，可以善用其力量；认清其边界，方能规避其陷阱，实现真正的明智投资。
+
+## 参考文献
+
+1. Markowitz, H. “Portfolio Selection.” *The Journal of Finance*, 1952. [DOI](https://doi.org/10.1111/j.1540-6261.1952.tb01525.x)
+2. Sharpe, W. F. “Capital Asset Prices: A Theory of Market Equilibrium under Conditions of Risk.” *The Journal of Finance*, 1964. [DOI](https://doi.org/10.1111/j.1540-6261.1964.tb02865.x)
+3. Lo, A. W. “The Adaptive Markets Hypothesis.” *The Journal of Portfolio Management*, 2004. [DOI](https://doi.org/10.3905/jpm.2004.442611)
+4. Grinold, R. C., and Kahn, R. N. *Active Portfolio Management*. McGraw-Hill, 2nd ed., 1999.

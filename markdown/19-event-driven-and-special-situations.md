@@ -148,3 +148,10 @@ $$
 ## 本章小结
 
 事件驱动策略将公司行为、监管流程和证券定价连接起来。稳健研究需要精确时间戳、逐时点条款、条件概率和失败损失建模。事件带来的价差不是免费收益，而是对不确定性、资金占用、流动性和专业分析能力的补偿。
+
+## 参考文献
+
+1. MacKinlay, A. C. “Event Studies in Economics and Finance.” *Journal of Economic Literature*, 1997. [DOI](https://doi.org/10.1257/jel.35.1.13)
+2. Mitchell, M., and Pulvino, T. “Characteristics of Risk and Return in Risk Arbitrage.” *The Journal of Finance*, 2001. [DOI](https://doi.org/10.1111/0022-1082.00395)
+3. U.S. Securities and Exchange Commission. “EDGAR.” [Official filing system](https://www.sec.gov/edgar/search-and-access)（访问日期：2026年11月12日）
+4. S&P Dow Jones Indices. “Index Policies and Practices.” [Official methodology portal](https://www.spglobal.com/spdji/en/governance/methodologies/)（访问日期：2026年11月12日）

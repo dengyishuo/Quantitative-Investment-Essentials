@@ -196,3 +196,14 @@ Agent 评估不应只看回答是否“像对的”。至少应衡量：
 
 可靠的 AI 量化系统不是让 Agent 取代研究员，而是把人的判断、模型能力、工具执行和验证机制组合成更高质量的研究过程。
 
+## 参考文献
+
+1. OpenAI. “Agents.” [Official API guide](https://developers.openai.com/api/docs/guides/agents)（访问日期：2026年11月12日）
+2. OpenAI. “Codex.” [Official documentation](https://developers.openai.com/learn/codex)（访问日期：2026年11月12日）
+3. Anthropic. “Building Effective Agents.” [Official research note](https://www.anthropic.com/research/building-effective-agents)（访问日期：2026年11月12日）
+4. Yao, S. et al. “ReAct: Synergizing Reasoning and Acting in Language Models.” 2022. [arXiv](https://doi.org/10.48550/arXiv.2210.03629)
+5. Liu, X. et al. “AgentBench: Evaluating LLMs as Agents.” 2023. [arXiv](https://doi.org/10.48550/arXiv.2308.03688)
+6. Islam, P. et al. “FinanceBench: A New Benchmark for Financial Question Answering.” 2023. [arXiv](https://doi.org/10.48550/arXiv.2311.11944)
+7. WorkBuddy. “产品指南.” [Official documentation](https://www.workbuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Product-Guide)（访问日期：2026年11月12日）
+8. 千问办公. [Official site](https://qwenwork.cn/)；豆包. [Official site](https://www.doubao.com/)（访问日期：2026年11月12日）
+

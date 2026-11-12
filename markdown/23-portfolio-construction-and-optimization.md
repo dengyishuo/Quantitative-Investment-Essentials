@@ -649,3 +649,10 @@ cat("nHML Exposure:", t(B_ff_matrix[, "HML"]) %*% optimal_weights)
 然而，随着这一逻辑被市场广泛认同，越来越多的投资者和资金涌入这些少数股票，形成了强烈的“抱团”现象。到2021年，情况发生了质变。“核心资产”的整体走势高度趋同，形成了一个独特的板块效应。它们的涨跌不再仅仅取决于各自的基本面，而是更多地受到市场对“核心资产”这一整体概念的情绪、资金流和宏观预期的影响。
 
 此时，“核心资产”已经从一个选股维度的Alpha来源，演变成了一个新的市场风险因子，一个投资者可以选择暴露或规避的系统性风险敞口，即一种新的Beta。投资“核心资产”不再是获取超额收益的保证，而是承担了一种特定的“核心资产Beta”风险。这一转变完美诠释了Alpha在被市场充分认知和吸收后，是如何内化为系统的一部分的。
+
+## 参考文献
+
+1. Ledoit, O., and Wolf, M. “Honey, I Shrunk the Sample Covariance Matrix.” *Journal of Portfolio Management*, 2004. [DOI](https://doi.org/10.3905/jpm.2004.110)
+2. Rockafellar, R. T., and Uryasev, S. “Optimization of Conditional Value-at-Risk.” *Journal of Risk*, 2000. [DOI](https://doi.org/10.21314/JOR.2000.038)
+3. Boyd, S., and Vandenberghe, L. *Convex Optimization*. Cambridge University Press, 2004. [Official author site](https://web.stanford.edu/~boyd/cvxbook/)
+4. Grinold, R. C., and Kahn, R. N. *Active Portfolio Management*. McGraw-Hill, 2nd ed., 1999.

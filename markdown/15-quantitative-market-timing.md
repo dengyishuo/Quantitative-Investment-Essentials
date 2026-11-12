@@ -3686,6 +3686,13 @@ A股市场的大小市值风格轮动，并非简单的线性交替，而是嵌�
 
 综合择时模型、组合构建、及模型局限性等内容可参考前一节相关内容。本节略。
 
+## 参考文献
+
+1. Brock, W., Lakonishok, J., and LeBaron, B. “Simple Technical Trading Rules and the Stochastic Properties of Stock Returns.” *The Journal of Finance*, 1992. [DOI](https://doi.org/10.1111/j.1540-6261.1992.tb04681.x)
+2. Sullivan, R., Timmermann, A., and White, H. “Data-Snooping, Technical Trading Rule Performance, and the Bootstrap.” *The Journal of Finance*, 1999. [DOI](https://doi.org/10.1111/0022-1082.00163)
+3. Moskowitz, T. J., Ooi, Y. H., and Pedersen, L. H. “Time Series Momentum.” *Journal of Financial Economics*, 2012. [DOI](https://doi.org/10.1016/j.jfineco.2011.11.003)
+4. Faber, M. T. “A Quantitative Approach to Tactical Asset Allocation.” *The Journal of Wealth Management*, 2007. [DOI](https://doi.org/10.3905/jwm.2007.684896)
+
 
 ### 第二部分：红利风格
 

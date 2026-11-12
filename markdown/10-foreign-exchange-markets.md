@@ -357,3 +357,10 @@ BIS将官方部门金融机构归入“其他金融机构”类别。在危机�
 #### 4.技术带来的新型风险
 
 技术的普及也带来了**算法共振、技术鸿沟和跨市场传染**等系统性风险。算法共振指多个算法在相似条件下同时触发相似交易，放大市场波动；技术鸿沟指大型机构与小型参与者之间的执行能力差距扩大；跨市场传染指外汇市场与股票、债券、加密资产之间的相关性在算法驱动下增强，风险传导更快。监管层因此呼吁加强国际协作和行业标准制定。监管科技（RegTech）的发展（利用AI进行市场监控、欺诈检测和合规执行）被视为应对这些新型风险的重要工具 。
+
+## 参考文献
+
+1. Bank for International Settlements. *Triennial Central Bank Survey of Foreign Exchange and OTC Derivatives Markets in 2025*. [Official survey](https://www.bis.org/publications/triennial-central-bank-survey-foreign-exchange-and-over-the-counter-otc-derivatives-markets-2025)
+2. Bank for International Settlements. “Triennial Survey.” [Official data portal](https://data.bis.org/topics/DER)（访问日期：2026年11月12日）
+3. Meese, R. A., and Rogoff, K. “Empirical Exchange Rate Models of the Seventies.” *Journal of International Economics*, 1983. [DOI](https://doi.org/10.1016/0022-1996(83)90017-X)
+4. CLS Group. “FX Settlement.” [Official overview](https://www.cls-group.com/products/settlement/)（访问日期：2026年11月12日）

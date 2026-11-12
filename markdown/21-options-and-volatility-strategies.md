@@ -145,3 +145,10 @@ $$
 ## 本章小结
 
 期权把方向、波动率、偏度、期限和尾部风险分离为可交易维度。策略收益来自风险溢价、相对定价和动态对冲，但同时承担非线性、跳跃、流动性与保证金风险。完整分析必须从到期损益图扩展到动态Greeks、波动率曲面和全路径现金流。
+
+## 参考文献
+
+1. Cboe Global Markets. *The Cboe Volatility Index—VIX White Paper*. [Official methodology](https://cdn.cboe.com/api/global/us_indices/governance/VIX_Methodology.pdf)
+2. Demeterfi, K. et al. “More Than You Ever Wanted to Know about Volatility Swaps.” Goldman Sachs Quantitative Strategies Research Notes, 1999. [Archived paper](https://www.math.uchicago.edu/~shmuel/Finance/vol_swap.pdf)
+3. Carr, P., and Madan, D. “Towards a Theory of Volatility Trading.” 1998. [SSRN](https://doi.org/10.2139/ssrn.251310)
+4. Cboe Options Institute. “Options Education.” [Official education portal](https://www.cboe.com/optionsinstitute/)（访问日期：2026年11月12日）

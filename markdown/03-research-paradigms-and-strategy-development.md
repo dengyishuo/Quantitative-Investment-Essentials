@@ -507,3 +507,10 @@ Fama-MacBeth模型由Eugene Fama与James MacBeth于1973年发表。尽管金融�
 -   **可解释性与预期风险管理：**策略为何赚钱？赚的什么钱？在何种市场环境下可能失效？为什么失效？如果失效怎么应对？清楚的回答以上问题，对风险的预估做到心中有数，当风险来临做到有准备有预案，是进行有效风险控制和在危机中保持信心的前提。
 
 -   最后一点，**长期思维。**策略的目标不是追求短期暴利，而是为投资者提供长期、稳定的回报，并做到风险可控，以及始终在合规的框架内运行。
+
+## 参考文献
+
+1. White, H. “A Reality Check for Data Snooping.” *Econometrica*, 2000. [DOI](https://doi.org/10.1111/1468-0262.00152)
+2. Bailey, D. H. et al. “The Probability of Backtest Overfitting.” *Journal of Computational Finance*, 2017. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2326253)
+3. Harvey, C. R., Liu, Y., and Zhu, H. “... and the Cross-Section of Expected Returns.” *Review of Financial Studies*, 2016. [DOI](https://doi.org/10.1093/rfs/hhv059)
+4. National Academies of Sciences, Engineering, and Medicine. *Reproducibility and Replicability in Science*, 2019. [Official report](https://doi.org/10.17226/25303)

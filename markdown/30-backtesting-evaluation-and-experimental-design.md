@@ -226,3 +226,11 @@ $$
 ## 本章小结
 
 可信回测来自正确的数据时间、真实的交易约束、严格的样本外设计和透明的实验记录。复杂模型无法弥补数据泄漏，漂亮净值也不能替代统计和经济解释。回测的最高价值，是帮助研究者尽早发现策略为什么可能失败，并把剩余的不确定性清楚地交给风险管理和实盘验证。
+
+## 参考文献
+
+1. White, H. “A Reality Check for Data Snooping.” *Econometrica*, 2000. [DOI](https://doi.org/10.1111/1468-0262.00152)
+2. Bailey, D. H. et al. “The Probability of Backtest Overfitting.” *Journal of Computational Finance*, 2017. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2326253)
+3. Bailey, D. H., and López de Prado, M. “The Deflated Sharpe Ratio.” *Journal of Portfolio Management*, 2014. [DOI](https://doi.org/10.3905/jpm.2014.40.5.094)
+4. Harvey, C. R., Liu, Y., and Zhu, H. “... and the Cross-Section of Expected Returns.” *Review of Financial Studies*, 2016. [DOI](https://doi.org/10.1093/rfs/hhv059)
+5. National Academies of Sciences, Engineering, and Medicine. *Reproducibility and Replicability in Science*, 2019. [Official report](https://doi.org/10.17226/25303)

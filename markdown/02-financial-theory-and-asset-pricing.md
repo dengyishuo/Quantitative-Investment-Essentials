@@ -284,3 +284,10 @@ $Cov(R)=X\cdot \Omega_F\cdot X'+\Delta$
 #### 应用案例3：Alpha因子选股与风险中性化 
 
 一位量化分析师开发了一个新的alpha因子。他希望构建一个投资组合来捕捉这个alpha，但同时不承担不必要的风格和行业风险。他可以利用Barra优化器，以最大化组合对该alpha因子的暴露为目标，同时设置约束条件，使得组合对所有Barra模型中的标准风格因子（如市值、价值、动量）和行业因子的暴露度为零，即“风险中性”。优化器会给出一个满足所有约束条件的、最优的股票权重配置方案。
+
+## 参考文献
+
+1. Sharpe, W. F. “Capital Asset Prices: A Theory of Market Equilibrium under Conditions of Risk.” *The Journal of Finance*, 1964. [DOI](https://doi.org/10.1111/j.1540-6261.1964.tb02865.x)
+2. Ross, S. A. “The Arbitrage Theory of Capital Asset Pricing.” *Journal of Economic Theory*, 1976. [DOI](https://doi.org/10.1016/0022-0531(76)90046-6)
+3. Fama, E. F., and French, K. R. “Common Risk Factors in the Returns on Stocks and Bonds.” *Journal of Financial Economics*, 1993. [DOI](https://doi.org/10.1016/0304-405X(93)90023-5)
+4. Fama, E. F., and French, K. R. “A Five-Factor Asset Pricing Model.” *Journal of Financial Economics*, 2015. [DOI](https://doi.org/10.1016/j.jfineco.2014.10.010)

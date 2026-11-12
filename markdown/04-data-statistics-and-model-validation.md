@@ -1756,3 +1756,10 @@ legend("topleft",legend = paste0("R square = ",round(r2_xgb2,4)))
 3.  XGBoost模型的优势主要体现在非线性场景中，线性场景下优势并不准确捕捉数据线性关系，过度增加模型复杂度反而可能降低泛化能力。
 
 4.  以上简单线性回归的优势建立在良好的特征工程的基础之上，存在线性关系是线性模型有效的前提。
+
+## 参考文献
+
+1. Benjamini, Y., and Hochberg, Y. “Controlling the False Discovery Rate.” *Journal of the Royal Statistical Society: Series B*, 1995. [DOI](https://doi.org/10.1111/j.2517-6161.1995.tb02031.x)
+2. NIST/SEMATECH. *e-Handbook of Statistical Methods*. [Official handbook](https://www.itl.nist.gov/div898/handbook/)（访问日期：2026年11月12日）
+3. Hastie, T., Tibshirani, R., and Friedman, J. *The Elements of Statistical Learning*. Springer, 2nd ed., 2009. [DOI](https://doi.org/10.1007/978-0-387-84858-7)
+4. Hyndman, R. J., and Athanasopoulos, G. *Forecasting: Principles and Practice*. [Official online edition](https://otexts.com/fpp3/)（访问日期：2026年11月12日）

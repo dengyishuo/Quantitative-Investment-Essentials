@@ -5423,3 +5423,10 @@ TotalAccruals是总应计，A是总资产，ΔRev是收入变化，PPE是固定�
 在未来，随着注册制的全面深化和市场机制的不断完善，那些依靠财技和欺诈维持上市地位的公司将无处遁形。而真正具备核心竞争力、治理结构完善、财务状况健康的企业，将获得应有的价值发现。
 
 本文所提出的量化“排雷”框架和方法论，正是为了帮助投资者适应这一历史性的转变，通过科学的风险识别和风险管理方法，在不确定性的市场中寻找价值的确定性，以实现长期、可持续的投资回报。
+
+## 参考文献
+
+1. Fama, E. F., and French, K. R. “Common Risk Factors in the Returns on Stocks and Bonds.” *Journal of Financial Economics*, 1993. [DOI](https://doi.org/10.1016/0304-405X(93)90023-5)
+2. Carhart, M. M. “On Persistence in Mutual Fund Performance.” *The Journal of Finance*, 1997. [DOI](https://doi.org/10.1111/j.1540-6261.1997.tb03808.x)
+3. Novy-Marx, R. “The Other Side of Value: The Gross Profitability Premium.” *Journal of Financial Economics*, 2013. [DOI](https://doi.org/10.1016/j.jfineco.2013.01.003)
+4. Hou, K., Xue, C., and Zhang, L. “Digesting Anomalies: An Investment Approach.” *Review of Financial Studies*, 2015. [DOI](https://doi.org/10.1093/rfs/hhu068)

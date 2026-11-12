@@ -3605,3 +3605,12 @@ APP内的社区功能在2025年持续升级，上线了股票、基金专属讨�
 据披露，该平台已获得某头部百亿量化私募认可，并向多家私募及证券行业头部机构提供实测。
 
 总之，财联社本质上是一个为**交易时效性**而优化的金融信息工具，而非追求全面深度的财经杂志。它的价值高低，取决于使用者自身的信息处理能力和投资决策框架。
+
+## 参考文献
+
+1. Federal Reserve Bank of St. Louis. “FRED Economic Data.” [Official data portal](https://fred.stlouisfed.org/)（访问日期：2026年11月12日）
+2. U.S. Securities and Exchange Commission. “EDGAR Application Programming Interfaces.” [Official documentation](https://www.sec.gov/search-filings/edgar-application-programming-interfaces)（访问日期：2026年11月12日）
+3. 国家统计局. “国家数据.” [官方数据平台](https://data.stats.gov.cn/)（访问日期：2026年11月12日）
+4. International Monetary Fund. “IMF Data.” [Official data portal](https://www.imf.org/en/Data)（访问日期：2026年11月12日）
+5. World Bank. “World Bank Open Data.” [Official data portal](https://data.worldbank.org/)（访问日期：2026年11月12日）
+6. Bank for International Settlements. “BIS Data Portal.” [Official data portal](https://data.bis.org/)（访问日期：2026年11月12日）

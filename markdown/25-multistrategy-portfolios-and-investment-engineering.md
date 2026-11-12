@@ -895,3 +895,10 @@ CTA策略与传统固收策略之间相关性低，可以有效降低组合整�
 -   **纪律性与耐心：**严格执行经过验证的策略，不因市场的短期噪音而动摇。科学投资是场马拉松，而非百米冲刺，需要长期的坚持和纪律 。
 
 -   **持续学习与进化：**市场在不断演化，过去的Alpha可能会衰减。成功的投资者必须保持开放的心态，不断学习新知识，迭代自己的模型和方法论，以适应变化的环境。这本身就是科学方法的核心要求：假设、检验、学习、调整的循环。
+
+## 参考文献
+
+1. Ilmanen, A. *Expected Returns: An Investor’s Guide to Harvesting Market Rewards*. Wiley, 2011. [Publisher page](https://www.wiley.com/en-us/Expected+Returns%3A+An+Investor%27s+Guide+to+Harvesting+Market+Rewards-p-9781119990727)
+2. Ang, A. *Asset Management: A Systematic Approach to Factor Investing*. Oxford University Press, 2014. [Publisher page](https://global.oup.com/academic/product/asset-management-9780199959327)
+3. Asness, C. S. et al. “Value and Momentum Everywhere.” *The Journal of Finance*, 2013. [DOI](https://doi.org/10.1111/jofi.12021)
+4. Qian, E. “Risk Parity Portfolios: Efficient Portfolios through True Diversification.” 2005. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1688368)

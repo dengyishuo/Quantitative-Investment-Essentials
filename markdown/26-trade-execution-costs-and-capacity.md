@@ -188,3 +188,10 @@ $$
 ## 本章小结
 
 交易执行决定理论Alpha能够保留多少，容量决定Alpha能够承载多少资金。稳健的投资工程需要将实施缺口、成本预测、执行算法、TCA和生产控制连接成闭环，并在正常与压力市场中持续评估可交易性。
+
+## 参考文献
+
+1. Almgren, R., and Chriss, N. “Optimal Execution of Portfolio Transactions.” *Journal of Risk*, 2001. [DOI](https://doi.org/10.21314/JOR.2001.041)
+2. Perold, A. F. “The Implementation Shortfall: Paper versus Reality.” *Journal of Portfolio Management*, 1988. [DOI](https://doi.org/10.3905/jpm.1988.409150)
+3. U.S. Securities and Exchange Commission. “Risk Management Controls for Brokers or Dealers with Market Access.” [Official rule](https://www.sec.gov/files/rules/final/2010/34-63241.pdf)
+4. FIX Trading Community. “FIX Standards.” [Official specifications](https://www.fixtrading.org/standards/)（访问日期：2026年11月12日）

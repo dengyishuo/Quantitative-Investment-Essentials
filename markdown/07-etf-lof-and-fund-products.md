@@ -235,3 +235,10 @@ ETF二级市场收益应使用成交价格，基金资产表现应使用复权�
 ## 本章小结
 
 ETF、LOF和其他基金产品是连接投资策略与可交易资产的重要载体。研究者需要同时理解净值形成、一级申赎、二级交易、指数复制、费用和流动性。产品名称只是入口，真正决定风险收益的是底层资产、规则和交易机制。第20章将在本章基础上讨论ETF轮动、折溢价、配对、套利和组合化策略。
+
+## 参考文献
+
+1. 上海证券交易所. *上海证券交易所交易型开放式指数基金业务实施细则*. [Official English edition](https://english.sse.com.cn/start/sserules/funds/trading/c/10115072/files/3a364202fc6c462cafbafb049dbb7d66.pdf)
+2. U.S. Securities and Exchange Commission. “Exchange-Traded Funds (ETFs).” [Investor bulletin](https://www.investor.gov/introduction-investing/investing-basics/investment-products/mutual-funds-and-exchange-traded-1)（访问日期：2026年11月12日）
+3. Investment Company Institute. *Investment Company Fact Book*. [Official publication](https://www.ici.org/statistical-report/2026-investment-company-fact-book)（访问日期：2026年11月12日）
+4. 中国证券监督管理委员会. *公开募集证券投资基金运作管理办法*. [官方规章](https://www.csrc.gov.cn/csrc/c101953/c1641322/content.shtml)

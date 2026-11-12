@@ -1838,3 +1838,10 @@ ETF组合的绩效归因应当拆解超额收益的来源：行业配置贡献�
 | 额外Alpha来源 | 可能：可以在行业配置的基础上，叠加个股多因子模型，赚取第二层（选股）的Alpha。 | 无：收益来源纯粹是行业配置（Beta），无法获取个股Alpha。 |
 | 操作复杂性 | 高：需要处理数百只股票的交易、持仓、风控、公司行动等，运营负担重。 | 低：只需管理数十只ETF，操作流程简洁，人力成本低。 |
 | 个股风险 | 存在：需要应对个股的停牌、涨跌停、业绩爆雷等非系统性风险。 | 基本无：ETF内部已分散化，无单一证券的非系统性风险，但需管理ETF本身的折溢价和流动性风险。 |
+
+## 参考文献
+
+1. Moskowitz, T. J., and Grinblatt, M. “Do Industries Explain Momentum?” *The Journal of Finance*, 1999. [DOI](https://doi.org/10.1111/0022-1082.00146)
+2. Asness, C. S., Moskowitz, T. J., and Pedersen, L. H. “Value and Momentum Everywhere.” *The Journal of Finance*, 2013. [DOI](https://doi.org/10.1111/jofi.12021)
+3. MSCI and S&P Dow Jones Indices. “Global Industry Classification Standard.” [Official methodology](https://www.msci.com/indexes/index-resources/gics)（访问日期：2026年11月12日）
+4. S&P Dow Jones Indices. “S&P U.S. Style Indices Methodology.” [Official methodology portal](https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-us-style-indices.pdf)

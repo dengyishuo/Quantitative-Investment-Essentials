@@ -210,3 +210,12 @@ data/
 - [ClickHouse Documentation](https://clickhouse.com/docs/)
 - [Apache Arrow Documentation](https://arrow.apache.org/docs/)
 
+## 参考文献
+
+1. DuckDB Foundation. “DuckDB Documentation.” [Official documentation](https://duckdb.org/docs/stable/)（访问日期：2026年11月12日）
+2. Oracle. “MySQL 8.4 Reference Manual.” [Official documentation](https://dev.mysql.com/doc/refman/8.4/en/)（访问日期：2026年11月12日）
+3. Redis. “Redis Documentation.” [Official documentation](https://redis.io/docs/latest/)（访问日期：2026年11月12日）
+4. PostgreSQL Global Development Group. “PostgreSQL Documentation.” [Official documentation](https://www.postgresql.org/docs/)（访问日期：2026年11月12日）
+5. Apache Software Foundation. “Apache Arrow Documentation.” [Official documentation](https://arrow.apache.org/docs/)（访问日期：2026年11月12日）
+6. Apache Software Foundation. “Apache Parquet Documentation.” [Official documentation](https://parquet.apache.org/docs/)（访问日期：2026年11月12日）
+

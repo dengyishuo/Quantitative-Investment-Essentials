@@ -215,3 +215,10 @@ $$
 ## 本章小结
 
 市场微观结构把“理论价格”转换为“可成交价格”。订单类型、撮合规则、流动性、信息不对称和市场制度共同决定真实交易成本。量化策略只有在正确的事件时间、成交约束和成本模型下仍然成立，才具备从研究走向实盘的基础。第26章将在此基础上进一步讨论执行算法、交易成本分析、容量与生产系统。
+
+## 参考文献
+
+1. Kyle, A. S. “Continuous Auctions and Insider Trading.” *Econometrica*, 1985. [DOI](https://doi.org/10.2307/1913210)
+2. Glosten, L. R., and Milgrom, P. R. “Bid, Ask and Transaction Prices in a Specialist Market.” *Journal of Financial Economics*, 1985. [DOI](https://doi.org/10.1016/0304-405X(85)90044-4)
+3. O’Hara, M. *Market Microstructure Theory*. Blackwell, 1995.
+4. U.S. Securities and Exchange Commission. “Equity Market Structure.” [Official portal](https://www.sec.gov/marketstructure)（访问日期：2026年11月12日）

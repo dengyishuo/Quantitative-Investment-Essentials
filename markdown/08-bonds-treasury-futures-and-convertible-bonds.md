@@ -264,3 +264,10 @@ $$
 ## 本章小结
 
 债券的核心是现金流、利率曲线与信用风险；国债期货在此基础上加入可交割券、转换因子和交割期权；可转债则进一步叠加权益期权与复杂条款。三类工具相互连接，为久期管理、曲线交易、信用配置、基差交易和可转债套利提供基础。后续套利、资产配置和风险章节将继续使用本章的久期、DV01、信用利差和期权敏感度概念。
+
+## 参考文献
+
+1. Bank for International Settlements. “Debt Securities Statistics.” [Official data](https://data.bis.org/topics/DSS)（访问日期：2026年11月12日）
+2. 中国金融期货交易所. “国债期货.” [官方产品资料](http://www.cffex.com.cn/gzqh/)（访问日期：2026年11月12日）
+3. 上海证券交易所. “债券业务规则.” [官方规则入口](https://www.sse.com.cn/lawandrules/sselawsrules/bond/)（访问日期：2026年11月12日）
+4. Tsiveriotis, K., and Fernandes, C. “Valuing Convertible Bonds with Credit Risk.” *Journal of Fixed Income*, 1998. [DOI](https://doi.org/10.3905/jfi.1998.408243)

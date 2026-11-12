@@ -1545,3 +1545,10 @@ $\mathbf{w}_0$：上期权重
 -   风险控制优先。采用因子风险模型对组合风险进行精确刻画，并将风险管理贯穿于投资流程的始终。并在组合优化中施加多重、稳健的现实约束。合理使用仓位的约束（板块、品种）和因子暴露的约束，而非单纯依赖风险厌恶系数。
 
 商品多因子模型的研究与实践仍在不断深化。目前比较明确的前沿方向包括：利用卫星数据、航运数据、网络文本等另类数据挖掘新的因子；探索基于宏观经济状态和经济周期的因子择时模型，动态调整各因子权重；以及将商品多因子策略作为一种独特的资产类别，整合到更广泛的全球宏观或大类资产配置框架中，以发挥其与传统策略的低相关性优势，提升整体投资组合的风险调整后收益。
+
+## 参考文献
+
+1. Moskowitz, T. J., Ooi, Y. H., and Pedersen, L. H. “Time Series Momentum.” *Journal of Financial Economics*, 2012. [DOI](https://doi.org/10.1016/j.jfineco.2011.11.003)
+2. Hurst, B., Ooi, Y. H., and Pedersen, L. H. “A Century of Evidence on Trend-Following Investing.” *The Journal of Portfolio Management*, 2017. [DOI](https://doi.org/10.3905/jpm.2017.44.1.015)
+3. Fung, W., and Hsieh, D. A. “The Risk in Hedge Fund Strategies: Theory and Evidence from Trend Followers.” *Review of Financial Studies*, 2001. [DOI](https://doi.org/10.1093/rfs/14.2.313)
+4. Commodity Futures Trading Commission. “Commitments of Traders.” [Official data](https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm)（访问日期：2026年11月12日）

@@ -2315,3 +2315,10 @@ Barra及其同类风险模型，作为量化投资的经典范式，其历史功
 -   **框架层面的整合：**构建一个集成的、实时的风险仪表盘，将拥挤度、市场状态和另类数据信号融为一体，为决策者提供全景式的风险视图。更重要的是，建立一个动态自适应的优化引擎，将这些洞察实时转化为智能的约束调整、动态的参数校准和基于CVaR的稳健组合构建，形成一个完整的“感知-决策-行动”闭环。
 
 从Barra到我们所描绘的未来范式，其本质是从一个封闭、静态、简化的世界观，走向一个开放、动态、复杂的系统观。这条进化之路无疑充满了技术上的挑战和智力上的投入，它要求量化机构不仅要拥有顶级的金融建模专家，还要拥有顶级的机器学习科学家、数据工程师和低延迟系统架构师。但我们坚信，这正是量化投资在下一个十年持续创造价值、穿越市场风浪的必由之路。风险管理的未来，不在于找到一个能预测一切的“水晶球”，而在于构建一个能感知一切、快速适应、并始终保持敬畏之心的强大免疫系统。
+
+## 参考文献
+
+1. Basel Committee on Banking Supervision. *Minimum Capital Requirements for Market Risk*. [Official standard](https://www.bis.org/bcbs/publ/d457.htm)
+2. Jorion, P. *Value at Risk: The New Benchmark for Managing Financial Risk*. McGraw-Hill, 3rd ed., 2006.
+3. MSCI. “Factor Models.” [Official research and methodology portal](https://www.msci.com/our-solutions/analytics/factor-models)（访问日期：2026年11月12日）
+4. Rockafellar, R. T., and Uryasev, S. “Optimization of Conditional Value-at-Risk.” *Journal of Risk*, 2000. [DOI](https://doi.org/10.21314/JOR.2000.038)

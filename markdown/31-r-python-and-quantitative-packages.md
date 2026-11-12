@@ -197,3 +197,12 @@ LLM生态变化较快，优先选择模型厂商官方SDK和最少依赖的实�
 - [PyPI](https://pypi.org/)
 - [renv Documentation](https://rstudio.github.io/renv/)
 
+## 参考文献
+
+1. R Core Team. “The R Project for Statistical Computing.” [Official site](https://www.r-project.org/)（访问日期：2026年11月12日）
+2. Python Software Foundation. “Python Documentation.” [Official documentation](https://docs.python.org/3/)（访问日期：2026年11月12日）
+3. The Comprehensive R Archive Network. “CRAN.” [Official package repository](https://cran.r-project.org/)（访问日期：2026年11月12日）
+4. Python Packaging Authority. “Python Packaging User Guide.” [Official documentation](https://packaging.python.org/)（访问日期：2026年11月12日）
+5. Posit. “renv Documentation.” [Official documentation](https://rstudio.github.io/renv/)（访问日期：2026年11月12日）
+6. Astral. “uv Documentation.” [Official documentation](https://docs.astral.sh/uv/)（访问日期：2026年11月12日）
+

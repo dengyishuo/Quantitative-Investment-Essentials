@@ -347,3 +347,10 @@ CME集团在美国利率、股指、外汇和商品衍生品市场具有核心�
 对中国而言，商品衍生品的全球领先地位是重要优势，但金融衍生品国际化、成熟品种定价影响力和跨境风险管理能力仍需提升。
 
 全球金融衍生品市场的竞争，最终不仅是成交量的竞争，更是规则、清算、数据、人才和风险管理能力的竞争。理解这一市场的格局与组成，有助于把握全球金融体系的风险定价逻辑，也为企业、投资者和监管者提供决策参考。
+
+## 参考文献
+
+1. Black, F., and Scholes, M. “The Pricing of Options and Corporate Liabilities.” *Journal of Political Economy*, 1973. [DOI](https://doi.org/10.1086/260062)
+2. Merton, R. C. “Theory of Rational Option Pricing.” *Bell Journal of Economics and Management Science*, 1973. [DOI](https://doi.org/10.2307/3003143)
+3. Bank for International Settlements. “OTC Derivatives Statistics.” [Official data](https://data.bis.org/topics/OTC_DER)（访问日期：2026年11月12日）
+4. International Swaps and Derivatives Association. “ISDA Documentation.” [Official portal](https://www.isda.org/book/)（访问日期：2026年11月12日）

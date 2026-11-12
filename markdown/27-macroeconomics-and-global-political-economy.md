@@ -4231,3 +4231,11 @@ MAP指数覆盖**全球主要经济体**，包括美国（US MAP）、欧元区�
 情景分析可以围绕基准、乐观、悲观和尾部情景展开，为每个情景定义触发条件、关键变量、资产方向、风险敞口和退出条件。对股票、债券、商品、外汇和波动率的影响应分别讨论，避免用单一“风险偏好”概括所有市场。
 
 在量化实现上，可以综合宏观数据库、政策文本、新闻事件、贸易与航运数据、市场价格和期权隐含信息。LLM与Agent适合辅助信息抽取、事件归类和监测报告，但关键事实、时间戳、来源和资产映射必须可追溯，并由人工审查。
+
+## 参考文献
+
+1. International Monetary Fund. “World Economic Outlook.” [Official database and reports](https://www.imf.org/en/Publications/WEO)（访问日期：2026年11月12日）
+2. World Bank. “Global Economic Prospects.” [Official report series](https://www.worldbank.org/en/publication/global-economic-prospects)（访问日期：2026年11月12日）
+3. World Trade Organization. “WTO Statistics.” [Official data portal](https://stats.wto.org/)（访问日期：2026年11月12日）
+4. Caldara, D., and Iacoviello, M. “Measuring Geopolitical Risk.” *American Economic Review*, 2022. [DOI](https://doi.org/10.1257/aer.20191823)
+5. Bank for International Settlements. “BIS Statistics.” [Official data portal](https://data.bis.org/)（访问日期：2026年11月12日）

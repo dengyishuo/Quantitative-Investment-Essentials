@@ -3190,3 +3190,10 @@ $TotalReturn≈Σ(β_{factor_i}*F_{factor_i})+α$
 研究和实践表明，将宏观因子视角融入传统资产配置模型，能够显著提升模型的表现，其各项效果普遍优于传统的均值-方差模型或标准的BL模型，同时能更好地控制波动率和最大回撤。这证明了捕捉宏观动态对于提升投资绩效的关键作用。
 
 综上，宏观因子模为身处复杂多变的全球宏观环境中的投资者，提供了一幅洞察市场本质的“地图”和一套驾驭风险的“罗盘”。本文所呈现的宏观因子模型并非一个终极版本，而是一个不断演进和完善的强大框架。掌握并善用这一工具，将是在未来持续战胜市场，获取稳健投资回报的关键所在。
+
+## 参考文献
+
+1. Markowitz, H. “Portfolio Selection.” *The Journal of Finance*, 1952. [DOI](https://doi.org/10.1111/j.1540-6261.1952.tb01525.x)
+2. Black, F., and Litterman, R. “Global Portfolio Optimization.” *Financial Analysts Journal*, 1992. [DOI](https://doi.org/10.2469/faj.v48.n5.28)
+3. Qian, E. “Risk Parity Portfolios: Efficient Portfolios through True Diversification.” PanAgora Asset Management, 2005. [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1688368)
+4. International Monetary Fund. “World Economic Outlook.” [Official database and reports](https://www.imf.org/en/Publications/WEO)（访问日期：2026年11月12日）

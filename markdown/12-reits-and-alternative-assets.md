@@ -231,3 +231,10 @@ $$
 ## 本章小结
 
 REITs使不动产和基础设施现金流能够以证券形式交易，是传统资产与另类资产之间的重要桥梁。私募股权、私募信贷、对冲基金、实物资产和数字资产则提供不同的风险因子与流动性结构。另类资产研究的核心不是追求标签上的低相关，而是穿透现金流、杠杆、估值和退出机制，在统一口径下衡量真实风险收益。
+
+## 参考文献
+
+1. U.S. Securities and Exchange Commission. “Real Estate Investment Trusts (REITs).” [Investor bulletin](https://www.investor.gov/introduction-investing/investing-basics/investment-products/real-estate-investment-trusts-reits)（访问日期：2026年11月12日）
+2. Nareit. “REIT Industry Data and Research.” [Official industry portal](https://www.reit.com/data-research)（访问日期：2026年11月12日）
+3. 中国证券监督管理委员会. “基础设施领域不动产投资信托基金（REITs）.” [官方专题](https://www.csrc.gov.cn/csrc/c100028/common_zcnr.shtml)（访问日期：2026年11月12日）
+4. Pedersen, L. H. *Efficiently Inefficient: How Smart Money Invests and Market Prices Are Determined*. Princeton University Press, 2015. [Publisher page](https://press.princeton.edu/books/hardcover/9780691166193/efficiently-inefficient)

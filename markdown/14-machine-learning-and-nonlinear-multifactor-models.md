@@ -188,3 +188,10 @@ $$
 ## 本章小结
 
 机器学习扩展了多因子模型对非线性和交互关系的表达能力，但无法消除金融数据中的低信噪比与制度变化。真正的竞争优势来自正确的时间对齐、稳健验证、经济约束和成本后的组合表现，而不是单纯更复杂的算法。
+
+## 参考文献
+
+1. Gu, S., Kelly, B., and Xiu, D. “Empirical Asset Pricing via Machine Learning.” *Review of Financial Studies*, 2020. [DOI](https://doi.org/10.1093/rfs/hhaa009)
+2. Breiman, L. “Random Forests.” *Machine Learning*, 2001. [DOI](https://doi.org/10.1023/A:1010933404324)
+3. Chen, T., and Guestrin, C. “XGBoost: A Scalable Tree Boosting System.” *KDD*, 2016. [DOI](https://doi.org/10.1145/2939672.2939785)
+4. Lundberg, S. M., and Lee, S.-I. “A Unified Approach to Interpreting Model Predictions.” *NeurIPS*, 2017. [arXiv](https://doi.org/10.48550/arXiv.1705.07874)

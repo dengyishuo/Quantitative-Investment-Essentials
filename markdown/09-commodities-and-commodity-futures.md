@@ -1999,3 +1999,10 @@ LME 2025年铜交易量同比增长12%，Q4铜交易量同比增44.3%，为2013�
 ### 五、总结和结论
 
 本节我们系统的介绍了国内商品期货市场开发量化策略需要特别注意的几个问题：品种筛选、合约选择、保证金管理和交易时间处理。每一项内容都包含了深刻的市场逻辑和具体的操作细节，对于构建一个稳健、高效的量化交易系统至关重要，在后面章节中会反复涉及。这些对于细节的重视再次提醒我们，量化策略的复杂性不仅体现在价格的随机波动中，更深深地根植于其底层的交易规则和微观结构之内。量化投资者要对市场规则怀有敬畏之心，对规则细节有着极致追求。
+
+## 参考文献
+
+1. Gorton, G., and Rouwenhorst, K. G. “Facts and Fantasies about Commodity Futures.” *Financial Analysts Journal*, 2006. [DOI](https://doi.org/10.2469/faj.v62.n2.4083)
+2. Commodity Futures Trading Commission. “Commitments of Traders.” [Official data](https://www.cftc.gov/MarketReports/CommitmentsofTraders/index.htm)（访问日期：2026年11月12日）
+3. CME Group. “Commodity Products.” [Official product portal](https://www.cmegroup.com/markets/agriculture.html)（访问日期：2026年11月12日）
+4. 上海期货交易所. “业务规则.” [官方规则入口](https://www.shfe.com.cn/regulation/rules/)（访问日期：2026年11月12日）

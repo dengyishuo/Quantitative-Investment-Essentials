@@ -300,3 +300,10 @@ SHFE铜与LME铜之间的跨市场套利是期货市场上最成熟、交易量�
 
 
 但需要特别强调的是，任何数据分析和模型都应当与基本面研判相结合。跨期套利利差的均值漂移往往来自基本面的结构性变化，跨品种配比会因生产工艺或废钢替代的出现而发生调整，跨市场套利模型必须考虑贸易政策、汇率体制和关税税率等制度性前提的变动。量化框架为套利交易提供了严格的纪律，但最终策略的有效性还需建立在深入理解产业经济运行逻辑和贸易制度规则的基础之上。
+
+## 参考文献
+
+1. Gatev, E., Goetzmann, W. N., and Rouwenhorst, K. G. “Pairs Trading: Performance of a Relative-Value Arbitrage Rule.” *Review of Financial Studies*, 2006. [DOI](https://doi.org/10.1093/rfs/hhj020)
+2. Engle, R. F., and Granger, C. W. J. “Co-Integration and Error Correction.” *Econometrica*, 1987. [DOI](https://doi.org/10.2307/1913236)
+3. Johansen, S. “Statistical Analysis of Cointegration Vectors.” *Journal of Economic Dynamics and Control*, 1988. [DOI](https://doi.org/10.1016/0165-1889(88)90041-3)
+4. 中国金融期货交易所. “国债期货套期保值与套利.” [官方投资者教育](http://www.cffex.com.cn/tzzjy/)（访问日期：2026年11月12日）

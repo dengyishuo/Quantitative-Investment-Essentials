@@ -681,3 +681,10 @@
 -   **关注流动性**：中小市场流动性不足可能导致交易成本上升和估值折价，大额配置需谨慎。
 -   **把握开放红利**：印度、越南、沙特等市场的开放改革，为长期投资者提供了结构性机会。
 -   **警惕地缘政治风险**：俄罗斯市场的教训表明，地缘政治风险可能导致市场关闭、资本冻结、投资者损失殆尽，分散化和风险预算管理至关重要。
+
+## 参考文献
+
+1. World Federation of Exchanges. “Statistics.” [Official statistics portal](https://statistics.world-exchanges.org/)（访问日期：2026年11月12日）
+2. International Organization of Securities Commissions. *Objectives and Principles of Securities Regulation*. [Official publication](https://www.iosco.org/library/pubdocs/pdf/IOSCOPD561.pdf)
+3. 上海证券交易所. “交易规则.” [官方规则入口](https://www.sse.com.cn/lawandrules/sselawsrules/trade/)（访问日期：2026年11月12日）
+4. 深圳证券交易所. “交易规则.” [官方规则入口](https://www.szse.cn/lawrules/rule/trade/)（访问日期：2026年11月12日）
