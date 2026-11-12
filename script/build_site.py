@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import html
+import re
 import shutil
 import subprocess
 from pathlib import Path
@@ -42,6 +43,22 @@ def render_markdown(path: Path) -> str:
         text=True,
     )
     return result.stdout
+
+
+def first_heading_id(body: str) -> str | None:
+    match = re.search(r'<h1 id="([^"]+)"', body)
+    return match.group(1) if match else None
+
+
+def rewrite_index_links(body: str, anchor_targets: dict[str, str]) -> str:
+    """Rewrite combined-book anchors for the multi-page web edition."""
+
+    def replace(match: re.Match[str]) -> str:
+        anchor = match.group(1)
+        target = anchor_targets.get(anchor)
+        return f'href="{target}#{anchor}"' if target else match.group(0)
+
+    return re.sub(r'href="#([^"]+)"', replace, body)
 
 
 def navigation(chapters: list[tuple[Path, str]], current: int | None) -> str:
@@ -170,6 +187,12 @@ def redirect_page(target: str) -> str:
 def main() -> None:
     paths = chapter_paths()
     chapters = [(path, chapter_title(path)) for path in paths]
+    rendered_bodies = {path: render_markdown(path) for path in paths}
+    anchor_targets = {
+        anchor: f"{path.stem}.html"
+        for path, body in rendered_bodies.items()
+        if (anchor := first_heading_id(body))
+    }
 
     if SITE_DIR.exists():
         shutil.rmtree(SITE_DIR)
@@ -196,9 +219,12 @@ def main() -> None:
 
     for index, (path, title) in enumerate(chapters):
         previous_link, next_link = chapter_pager(chapters, index)
+        body = rendered_bodies[path]
+        if path.name == "index.md":
+            body = rewrite_index_links(body, anchor_targets)
         page = page_shell(
             title=title,
-            body=render_markdown(path),
+            body=body,
             chapters=chapters,
             current=index,
             previous_link=previous_link,
